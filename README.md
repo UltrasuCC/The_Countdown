@@ -19,7 +19,7 @@ A fun Python countdown timer inspired by a pasta timer, with an audio alarm that
 
 1. Install pygame:
 ```bash
-pip install pygame
+pip install pygame-ce
 ```
 
 2. Have an audio file ready (supports `.mp3`, `.wav`, `.ogg`, etc.)
